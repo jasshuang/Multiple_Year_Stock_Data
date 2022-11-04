@@ -1,8 +1,8 @@
 # Multiple-Year-Stock-Data
 VBA script analyzing the stock market
 
-
-Create a script that loops through all the stocks for one year and outputs the following information:
+## Instruction
+In this repository, I created a script that loops through all the stocks for one year and outputs the following information:
 
 -The ticker symbol
 
